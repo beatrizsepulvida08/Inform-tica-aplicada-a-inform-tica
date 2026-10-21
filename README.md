@@ -13,3 +13,6 @@ Nesta atividade, foi realizada uma análise de dados sobre acidentes rodoviário
 <img width="1304" height="770" alt="image" src="https://github.com/user-attachments/assets/be1db2a3-f84a-4129-8213-21b01e83cf3d" />
 <img width="1305" height="788" alt="image" src="https://github.com/user-attachments/assets/b9060359-4940-47a5-8fb6-98d13764d001" />
 <img width="1304" height="759" alt="image" src="https://github.com/user-attachments/assets/fc77fa82-f261-483b-934f-025f9d108988" />
+#   Curso Aplicação do Power BI para Aprimoramento da Gestão 
+<img width="792" height="557" alt="image" src="https://github.com/user-attachments/assets/0d785b10-9fb5-4917-afcb-1becb8a6d6ad" />
+<img width="790" height="554" alt="image" src="https://github.com/user-attachments/assets/4e61f412-d83c-47fb-ba63-1be3d7a96119" />
