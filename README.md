@@ -16,6 +16,9 @@ Nesta atividade, foi realizada uma análise de dados sobre acidentes rodoviário
 <img width="1305" height="788" alt="image" src="https://github.com/user-attachments/assets/b9060359-4940-47a5-8fb6-98d13764d001" />
 <img width="1304" height="759" alt="image" src="https://github.com/user-attachments/assets/fc77fa82-f261-483b-934f-025f9d108988" />
 
+# Gráfico Sorvete
+<img width="1490" height="979" alt="image" src="https://github.com/user-attachments/assets/1eafc64f-fb3e-4ea9-ae30-1eed5ac63ee6" />
+
 # Gráfico de Dispersão
 Nesta atividade, foi realizada uma análise da relação entre as horas de estudo e as notas obtidas na prova, utilizando regressão linear.
 Primeiramente, foram organizados os dados em uma planilha do Excel e criado um gráfico de dispersão, com as horas de estudo no eixo X e as notas da prova no eixo Y. Em seguida, foi adicionada uma linha de tendência linear para analisar a relação entre as duas variáveis.
