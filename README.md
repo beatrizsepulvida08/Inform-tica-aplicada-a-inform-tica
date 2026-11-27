@@ -31,7 +31,8 @@ Primeiramente, foram organizados os dados em uma planilha do Excel e criado um g
 https://colab.research.google.com/drive/1OUXt6MAldDePE97t6IVnsXal5ZtuUOfh?usp=sharing
 <img width="742" height="558" alt="image" src="https://github.com/user-attachments/assets/a599f552-e03a-4dd2-8e1e-12ba5f5f57c9" />
 <img width="668" height="520" alt="image" src="https://github.com/user-attachments/assets/a88c6591-d568-4fec-8732-3def8311c747" />
-
+# Power BI - Expectativa de Vida
+<img width="1355" height="805" alt="image" src="https://github.com/user-attachments/assets/17841073-4571-4c37-aedb-fe6951d6073b" />
 
 #   Curso Aplicação do Power BI para Aprimoramento da Gestão 
 <img width="792" height="557" alt="image" src="https://github.com/user-attachments/assets/0d785b10-9fb5-4917-afcb-1becb8a6d6ad" />
