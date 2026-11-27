@@ -29,6 +29,9 @@ Nesta atividade, foi realizada uma análise da relação entre as horas de estud
 Primeiramente, foram organizados os dados em uma planilha do Excel e criado um gráfico de dispersão, com as horas de estudo no eixo X e as notas da prova no eixo Y. Em seguida, foi adicionada uma linha de tendência linear para analisar a relação entre as duas variáveis.
 <img width="1432" height="679" alt="image" src="https://github.com/user-attachments/assets/2bf1458e-eb57-4dbd-9040-023a2eeda85c" />
 https://colab.research.google.com/drive/1OUXt6MAldDePE97t6IVnsXal5ZtuUOfh?usp=sharing
+<img width="742" height="558" alt="image" src="https://github.com/user-attachments/assets/a599f552-e03a-4dd2-8e1e-12ba5f5f57c9" />
+<img width="668" height="520" alt="image" src="https://github.com/user-attachments/assets/a88c6591-d568-4fec-8732-3def8311c747" />
+
 
 #   Curso Aplicação do Power BI para Aprimoramento da Gestão 
 <img width="792" height="557" alt="image" src="https://github.com/user-attachments/assets/0d785b10-9fb5-4917-afcb-1becb8a6d6ad" />
