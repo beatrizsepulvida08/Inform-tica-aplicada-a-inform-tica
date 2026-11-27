@@ -20,6 +20,9 @@ Nesta atividade, foi realizada uma análise de dados sobre acidentes rodoviário
 Na atividade, foi utilizada uma planilha com dados de temperatura e faturamento das vendas de sorvete. Os dados foram importados para o Python e analisados por meio de gráficos e da técnica de Regressão Linear. O objetivo foi identificar a relação entre a temperatura e as vendas, além de criar um modelo capaz de prever o faturamento. Ao final, foi possível observar que, quanto maior a temperatura, maior tende a ser o faturamento das vendas de sorvete.
 <img width="1490" height="979" alt="image" src="https://github.com/user-attachments/assets/1eafc64f-fb3e-4ea9-ae30-1eed5ac63ee6" />
 Colab: https://colab.research.google.com/drive/1AKaxVY1f_cUxrwxYH8ZqXsOEAiRfu4OM?usp=sharing
+<img width="615" height="742" alt="image" src="https://github.com/user-attachments/assets/fc47f1c4-4ead-4c32-a3c3-0d8ec82fed4d" />
+<img width="617" height="509" alt="image" src="https://github.com/user-attachments/assets/f6a12cab-c6db-4c0c-b69b-aea5d8d6df8a" />
+
 
 # Gráfico de Dispersão
 Nesta atividade, foi realizada uma análise da relação entre as horas de estudo e as notas obtidas na prova, utilizando regressão linear.
