@@ -13,6 +13,14 @@ Nesta atividade, foi realizada uma análise de dados sobre acidentes rodoviário
 <img width="1304" height="770" alt="image" src="https://github.com/user-attachments/assets/be1db2a3-f84a-4129-8213-21b01e83cf3d" />
 <img width="1305" height="788" alt="image" src="https://github.com/user-attachments/assets/b9060359-4940-47a5-8fb6-98d13764d001" />
 <img width="1304" height="759" alt="image" src="https://github.com/user-attachments/assets/fc77fa82-f261-483b-934f-025f9d108988" />
+
+# Gráfico de Dispersão
+Nesta atividade, foi realizada uma análise da relação entre as horas de estudo e as notas obtidas na prova, utilizando regressão linear.
+Primeiramente, foram organizados os dados em uma planilha do Excel e criado um gráfico de dispersão, com as horas de estudo no eixo X e as notas da prova no eixo Y. Em seguida, foi adicionada uma linha de tendência linear para analisar a relação entre as duas variáveis.
+<img width="1432" height="679" alt="image" src="https://github.com/user-attachments/assets/2bf1458e-eb57-4dbd-9040-023a2eeda85c" />
+https://colab.research.google.com/drive/1OUXt6MAldDePE97t6IVnsXal5ZtuUOfh?usp=sharing
+https://colab.research.google.com/drive/1OUXt6MAldDePE97t6IVnsXal5ZtuUOfh?usp=sharing
+
 #   Curso Aplicação do Power BI para Aprimoramento da Gestão 
 <img width="792" height="557" alt="image" src="https://github.com/user-attachments/assets/0d785b10-9fb5-4917-afcb-1becb8a6d6ad" />
 <img width="790" height="554" alt="image" src="https://github.com/user-attachments/assets/4e61f412-d83c-47fb-ba63-1be3d7a96119" />
@@ -21,8 +29,3 @@ Nesta atividade, foi realizada uma análise de dados sobre acidentes rodoviário
 
 <img width="1293" height="733" alt="image" src="https://github.com/user-attachments/assets/641b02b4-a6c8-437e-9ebd-621b58ea21be" />
 
-# Gráfico de Dispersão
-Nesta atividade, foi realizada uma análise da relação entre as horas de estudo e as notas obtidas na prova, utilizando regressão linear.
-Primeiramente, foram organizados os dados em uma planilha do Excel e criado um gráfico de dispersão, com as horas de estudo no eixo X e as notas da prova no eixo Y. Em seguida, foi adicionada uma linha de tendência linear para analisar a relação entre as duas variáveis.
-<img width="1432" height="679" alt="image" src="https://github.com/user-attachments/assets/2bf1458e-eb57-4dbd-9040-023a2eeda85c" />
-https://colab.research.google.com/drive/1OUXt6MAldDePE97t6IVnsXal5ZtuUOfh?usp=sharing
